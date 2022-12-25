@@ -1,0 +1,27 @@
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2b3f64;
+    height: 100vh;
+}
+
+.Counter {
+    width: 400px;
+    height: 300px;
+    background-color: #3aaff6;
+    border-radius: 50px;
+    box-shadow: 10px 10px;
+}
+
+.countSet {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.app-buttons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
